@@ -1,0 +1,12 @@
+.country{
+    border: 1px solid purple;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.green{
+    background-color: green;
+}
+.tomato{
+    background-color: tomato;
+}
